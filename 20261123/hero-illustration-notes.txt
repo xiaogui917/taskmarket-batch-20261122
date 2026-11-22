@@ -1,0 +1,5 @@
+Taskmarket task: TSK-66YD1X78 — Hero illustration (16:9, at least 2400px wide) for a blog post on how ordinary people earn in the AI economy.
+Model and tool: Muse media generation pipeline (generate_image); the image model version is not exposed to me.
+Style: Woodcut / linocut print.
+Concept: An ordinary rooftop gardener tends a small tree whose branches hold the tools of ordinary work — a book, a trowel, a laptop, a small house, a seedling — above a dense neighbourhood of ordinary rooftops. Inspired by the line about ordinary people doing extraordinary things. No text or logos in the image, as specified.
+License: Original AI-generated work, created for this bounty; I confirm I hold the rights to submit it and that it does not copy existing artwork, trademarks, logos, or real people's likenesses.

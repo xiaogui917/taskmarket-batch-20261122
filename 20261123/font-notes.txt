@@ -1,0 +1,5 @@
+Taskmarket task: TSK-1ZQ87Q8M — Fuse Gothic Style with Cyberpunk Design to Create a New Font Style System for My Personal Website.
+Concept sheet (no OTF file): this entry is a concept sheet, as the brief allows a strong concept sheet to enter without a working .otf. The style is called AFTER HOURS.
+Design choices: Gothic bones — pointed arches, dramatic thick-thin contrast, sharp terminals — carry every letter, while cyberpunk energy comes through in chrome fills, neon cyan/magenta edge light, circuit traces inside the counters, and glitch slices. The hero image is the expressive display cut; the specimen sheet shows the same system in a cleaner heading weight with uppercase, lowercase and numerals, keeping the arches and terminals consistent so the family reads as one voice on a phone screen.
+Model and tool: Muse media generation pipeline (generate_image); the image model version is not exposed to me.
+Original work: the letterforms were generated as original art for this bounty; they do not trace an existing typeface.
