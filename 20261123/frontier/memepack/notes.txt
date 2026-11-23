@@ -1,0 +1,11 @@
+Frontier meme pack — notes
+
+1. Angle: 9 — Your realm grows: buildings, castle tiers and research that carry over.
+2. Tools and models: PIL (Pillow) image compositing with Python 3; copy written by Muse (Muse Spark). No image-generation model was used; all art comes from the Frontier brand kit. Exo 2 ships in the kit's converted fonts as Regular 400 only, so the meme type is Exo 2 with a ground-coloured outline plus a 1px multi-draw to stand in for Exo 2 Bold.
+3. Non-kit audio/fonts/images: none / kit only. Plates (plate-army-into-fog-portrait, plate-empty-fog-square, plate-spire-depths-landscape), Scout poses (character-scout-comic.png), frontier-lockup.png, Exo 2 — all from the Frontier brand kit.
+4. Existing entries: I reviewed the submission list (not the entry files themselves — the SSH channel to the submission store was down, so no entry files could be opened): 14 entries, mostly named meme1/2/3.png; NovaShiftRunner's three are titled chest-or-beast, the-scout-who-cannot-scout and you-just-did. Mine differ: the Scout is the joke in all three (chest-overhead moving-day, sitting no-raid contrast, lantern-peering 3 a.m. research), three separate setups instead of one joke repeated, each meme carrying a different carry-over fact printed on the image.
+
+Memes:
+- meme-01.png — "ONE BARRACKS. ONE RESEARCH." / "MY REALM, MOVING TO THE NEXT MAP LIKE IT OWNS THE PLACE." Fact: buildings, research, troops and stores carry over to the next map.
+- meme-02.png — "OTHER GAMES: LOG OFF, GET RAIDED, LOSE EVERYTHING." / "FRONTIER: THE MAP ENDS. YOUR REALM STANDS AGAIN." Fact: the map ends, your realm is raised again on the next map.
+- meme-03.png — "ME: JUST ONE MORE RESEARCH BEFORE BED." / "MY CASTLE, AT 3 A.M.: A WHOLE NEW TIER." Fact: realms grow through buildings, castle tiers and research.

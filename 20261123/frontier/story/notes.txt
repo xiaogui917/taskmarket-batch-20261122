@@ -1,0 +1,8 @@
+Frontier short story — notes
+
+1. Angle: 9 — Your realm grows: buildings, castle tiers and research that carry over.
+2. Tools and models: PIL (Pillow) image compositing with Python 3 for cover.png; story written by Muse (Muse Spark). No image-generation model was used; cover art is the kit plate plate-beast-in-fog-portrait.jpg.
+3. Non-kit audio/fonts/images: none / kit only. Plate, frontier-lockup.png, IM Fell English SC, Cinzel SemiBold, Exo 2 — all from the Frontier brand kit.
+4. Existing entries: I reviewed the submission list (not the entry files themselves — the SSH channel to the submission store was down, so no entry files could be opened): 16 entries already, so the paid places are effectively full. Mine differs: a second-person, present-tense day in the fog built entirely around the carry-over rule — a well, a shrine, a troll-guarded camp and the spire each work exactly as the fact sheet says — with a clear arc (a day's march, a fight with a known forecast, dusk, the realm rising again).
+
+Story: "The Day the Realm Moved", 383 words, plus a one-sentence teaser in story.md. Cover: cover.png, 1080x1350, kit plate with the title in IM Fell English SC, lockup and sign-off.

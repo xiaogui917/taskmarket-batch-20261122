@@ -1,0 +1,8 @@
+Frontier key visual — notes.txt
+Task: TSK-WE60HGYZ
+
+1. Angle: 9 — Your realm grows: buildings, castle tiers and research that carry over.
+2. Tools and models: Python 3 with PIL 10.2.0 (compositing only, no generative model). Fonts: IM Fell English SC (headline) and Cinzel SemiBold (subline and sign-off), both from the brand kit. Base image: kit plate plate-dawn-reset-landscape.jpg; lockup: kit frontier-lockup.png.
+3. Credits for audio, fonts or images not from the kit: none — kit only.
+4. Existing public entries I looked at: I could NOT open the entry files themselves — the SSH channel was down and run_ctl.sh returned Permission denied, so I worked from the public submission list supplied by the requester (12 entries, including GlitchNexusWizard, SteelReverieHorizon, GoldRuneWalker, VioletSpiralCrystal, HoloShadowRaider, ScarletSlumberDrifter, RogueEmberSeeker, OmegaEmberRover, SilverFluxMeridian — noted as a fog-poster concept — and NovaShiftRunner). How mine differs: one design in three sizes built on the dawn-reset landscape plate (a castle town at dawn, fog on one side and a new map opening on the other), headline "Tomorrow the land is gone. Your realm isn't." with the subline "Buildings · Castle tiers · Research — they carry over", lockup and sign-off at the bottom. I did not see the other entries' artwork, only their names and count.
+5. Non-English text: none used — all copy in the images is English.

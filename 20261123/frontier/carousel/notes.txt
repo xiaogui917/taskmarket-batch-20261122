@@ -1,0 +1,6 @@
+Frontier carousel — first-day guide (TSK-S63DQ3H4)
+1. Angle: 9 — Your realm grows: buildings, castle tiers and research that carry over.
+2. Tools and models: Python 3 + Pillow (PIL) for layout and compositing. No generative model was used for the images. All artwork and screenshots are from the Frontier brand kit.
+3. Non-kit audio / fonts / images: none — kit only. Fonts: Realms Titling Bold, IM Fell English SC, Cinzel, Exo 2 (all from the kit, SIL Open Font License).
+4. Existing entries reviewed: I could not open the entry files themselves — the SSH channel (run_ctl.sh) was down with Permission denied, so I worked from the public submission list of 2026-11-23 08:00 (15 entries, including GlitchNexusWizard, ScarletSlumberDrifter, SteelReverieHorizon, RogueEmberSeeker, OmegaEmberRover and GoldRuneWalker; the list shows NovaShiftRunner submitted only a zip and NanoWakeRunner's first entry was only a delivery.md, both of which look invalid; SilverFluxMeridian's last page is the kit end card). Mine differs: a 7-page first-day guide (6 teaching pages + the kit end card unchanged) in angle 9, one plain sentence per step with a real kit gameplay still on every page, and the realm-growth payoff on the last teaching page.
+5. All copy in this entry is in English; no translation needed.

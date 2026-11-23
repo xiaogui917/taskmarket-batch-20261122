@@ -1,0 +1,6 @@
+Frontier comic — the Scout's first day (TSK-1R1MFT82)
+1. Angle: 9 — Your realm grows: buildings, castle tiers and research that carry over.
+2. Tools and models: Python 3 + Pillow (PIL) for layout and compositing. No generative model was used for the images. All artwork is from the Frontier brand kit.
+3. Non-kit audio / fonts / images: none — kit only. Fonts: Cinzel and Exo 2 (from the kit, SIL Open Font License).
+4. Existing entries reviewed: I could not open the entry files themselves — the SSH channel (run_ctl.sh) was down with Permission denied, so I worked from the public submission list of 2026-11-23 08:00 (12 entries, most of them files named comic.png; the list shows NanoWakeRunner's first entry was only a delivery.md, which looks invalid). Mine differs: a 5-panel strip in angle 9 in which the Scout reveals a tile, finds a ruin with the strongest guard, reads the guard and the prize before fighting, opens a chest of LORDS, and wakes to find the map gone while the realm stands and grows.
+5. All copy in this entry is in English; no translation needed.

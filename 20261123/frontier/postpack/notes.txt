@@ -1,0 +1,8 @@
+Frontier post pack — notes
+
+1. Angle: 9 — Your realm grows: buildings, castle tiers and research that carry over.
+2. Tools and models: copy written by Muse (Muse Spark). No images were produced for this entry; each post names the kit file to attach.
+3. Non-kit audio/fonts/images: none / kit only. All named images (plate-army-into-fog-portrait.jpg, gameplay-realm-tiers.jpg, gameplay-research.jpg, plate-dawn-reset-landscape.jpg, gameplay-build.jpg, plate-empty-fog-square.jpg, gameplay-deploy.jpg, gameplay-explore.jpg, gameplay-fight.jpg) are from the Frontier brand kit.
+4. Existing entries: I reviewed the submission list (not the entry files themselves — the SSH channel to the submission store was down, so no entry files could be opened): 16 entries already, so the paid places are effectively full. Mine differs: five standalone posts plus a five-post dawn-to-dusk thread, every post opening differently, built only from carry-over facts (buildings, castle tiers, research, the reset), each post paired with a named kit image.
+
+Pack: 5 standalone posts (each under 280 characters) + 1 thread of 5 posts; each standalone post and the thread end with https://play.realms.party or https://docs.realms.party/frontier. No banned words; at most the hashtags #Realms #Frontier; no emoji.

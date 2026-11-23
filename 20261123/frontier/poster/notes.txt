@@ -1,0 +1,15 @@
+Frontier poster (German) — notes
+
+1. Angle: 9 — Your realm grows: buildings, castle tiers and research that carry over.
+2. Tools and models: PIL (Pillow) image compositing with Python 3; copy written by Muse (Muse Spark). No image-generation model was used; all art comes from the Frontier brand kit.
+3. Non-kit audio/fonts/images: none / kit only. Plate plate-army-into-fog-portrait.jpg, icons icon-daily-reset / icon-realm-growth / icon-reveal, frontier-lockup.png, IM Fell English SC, Cinzel SemiBold, Exo 2 — all from the Frontier brand kit.
+4. Existing entries and languages: I reviewed the submission list (not the entry files themselves — the SSH channel to the submission store was down, so no entry files could be opened): Spanish is already taken by 3 entries (GlitchNexusWizard, GoldRuneWalker, OmegaEmberRover, all poster-es.png); Japanese, French, Chinese x2 and Indonesian are also taken. German was free, so this poster is German. Mine differs: headline DEIN REICH WÄCHST ("Your realm grows") with three carry-over facts and kit icons on the army-into-fog plate, one main message, readable on a phone.
+
+English translations of the German text:
+- "EIN KOSTENLOSES SPIEL IN REALMS" = "A free-to-play game in Realms"
+- "DEIN REICH WÄCHST" = "Your realm grows"
+- "Gebäude, Burgstufen und Forschung, die auf die nächste Karte mitkommen." = "Buildings, castle tiers and research that carry over to the next map."
+- "Jeden Tag öffnet sich eine neue Karte um dein Reich, verborgen im Nebel." = "Every day a new map opens around your realm, hidden in fog."
+- "Deine Gebäude, deine Forschung, deine Truppen und deine Vorräte kommen auf der nächsten Karte wieder mit." = "Your buildings, your research, your troops and your stores come along again on the next map."
+- "Zum Anmelden und Spielen brauchst du keine Wallet. Es läuft im Browser, auf dem Computer und auf dem Telefon." = "You need no wallet to sign in or to play. It runs in the browser, on desktop and on phone."
+- The sign-off "FREE TO PLAY · PLAY.REALMS.PARTY" and the lockup are in English, as the brief allows.
